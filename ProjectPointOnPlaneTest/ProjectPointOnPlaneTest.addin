@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command ProjectPointOnPlaneTest</Text>
+    <Description>Some description for ProjectPointOnPlaneTest</Description>
+    <Assembly>ProjectPointOnPlaneTest.dll</Assembly>
+    <FullClassName>ProjectPointOnPlaneTest.Command</FullClassName>
+    <ClientId>92f5c295-d697-485a-b78c-04e4e795ea30</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
